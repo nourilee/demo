@@ -1,0 +1,38 @@
+# Maven build output
+target/
+
+# Maven wrapper
+.mvn/
+.mvn/wrapper/
+
+# IntelliJ IDEA and Eclipse project files
+.idea/
+.project
+.classpath
+
+# VS Code settings
+.vscode/
+
+# Allure 
+.allure/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven effective POM
+effective-pom.xml
