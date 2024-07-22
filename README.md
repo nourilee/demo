@@ -36,3 +36,7 @@ This repository contains Selenium test automation for demo purposes. This projec
    mvn allure:serve
    ```
    This command opens the Allure report in your web browser.
+
+## Sample Test Results
+
+![image](https://github.com/user-attachments/assets/2eb7b409-10f4-4e86-8581-9994310b542e)
